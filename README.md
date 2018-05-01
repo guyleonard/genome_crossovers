@@ -33,9 +33,9 @@ Continuing with the loose definitions, plants = anything green...
 
 The total number of genomes from each of the 'big' genome portals are as below:
 
-Ensembl|JGI|NCBI
--------|---|----
-53|85|87
+Ensembl|JGI|NCBI|Total|Unique Total
+-------|---|----|-----|------------
+53|85|87|225|148
 
 ### UpSetR Plot
 Their intersections are as below, this is like a Venn diagram but 1000x better:
@@ -48,7 +48,7 @@ For example, we can see that:
  * but JGI is a close second
  * and there's surprisingly few shared between the portals
 
-You can access the data, [here](https://github.com/guyleonard/genome_crossovers/blob/master/plants/plants.csv), and the code to make the plot [here](https://github.com/guyleonard/genome_crossovers/raw/master/plants/plants_plot.r).
+You can access the data, [here](https://github.com/guyleonard/genome_crossovers/blob/master/plants/plants.csv), and the code to make the plot [here](https://github.com/guyleonard/genome_crossovers/blob/master/plants/plants_plot.r).
 
 
 ## Metazoa
