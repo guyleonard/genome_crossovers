@@ -12,7 +12,7 @@ Ensembl|JGI|FungiDB|Other|NCBI
 -------|---|-------|-----|----
 761|874|81|25|900
 
-### Upset Plot
+### UpSetR Plot
 Their intersections are as below, this is like a Venn diagram but 1000x better:
 
 ![](https://github.com/guyleonard/genome_crossovers/raw/master/fungi/fungi_jgi_ensembl_other_ncbi.png)
@@ -29,7 +29,42 @@ I think that's pretty revealing, if you're going to try and cover taxonomic dive
 And so you can access the data, [here](https://github.com/guyleonard/genome_crossovers/blob/master/fungi/fungi_all.csv), and the code to make the plot [here](https://github.com/guyleonard/genome_crossovers/blob/master/fungi/fungi_plot.R), there are other examples in the Fungi directory.
 
 ## Plants
+Continuing with the loose definitions, plants = anything green...
+
+The total number of genomes from each of the 'big' genome portals are as below:
+
+Ensembl|JGI|NCBI
+-------|---|----
+53|85|87
+
+### UpSetR Plot
+Their intersections are as below, this is like a Venn diagram but 1000x better:
+
+![](https://github.com/guyleonard/genome_crossovers/raw/master/plants/plants.png)
+
+For example, we can see that:
+
+ * NCBI wins this time with the most unique number of genomes
+ * but JGI is a close second
+ * and there's surprisingly few shared between the portals
 
 ## Metazoa
 
 ## Protists / Other
+
+
+# Caveats
+
+These lists were curated from various sources. Not everyone makes their information easily accessible. So, I have probably missed taxa and if it's your favourite one, then I apologise!
+
+## NCBI
+They have a list hidden away in their FTP site [here](ftp://ftp.ncbi.nlm.nih.gov/genomes/GENOME_REPORTS/). Is it complete? Hard to say. Is it full of duplicates and multiple assemblies? Yes. If anyone knows of a better list then please feel free to let me know and tell NCBI to make it more obvious.
+
+## JGI
+Fungi seem to be all contained in Mycocosm now, which is great but wasn't always the case. Other taxa plants/protists are not all in their own '-cosms' or '-zomes' though. So it's a bit more hit and miss. I have to parse their XMLs with scripts [here](https://github.com/guyleonard/get_jgi_genomes) or just look at the genome portal web page, one by one.
+
+## Ensembl
+Most of the constituent portals have lists and tables with the information I want in. By far the easiest to use and extract data from! Yay!
+
+## EuPathDB + Others
+Pretty easy from EuPathDB and consituent portals as they have a list function which also shows taxa with predicted proteins. Nice.
