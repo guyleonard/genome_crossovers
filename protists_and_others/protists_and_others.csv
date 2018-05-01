@@ -1,0 +1,277 @@
+Genus,species,,type,Ensembl,JGI,NCBI,EuPathDB,Other,NCBI Tax ID
+Acanthamoeba,castellanii,str. Neff,,EnsemblProtists,,,EuPathDB,,1257118
+Acanthaster,planci,,,,,,,OISTMarine,133434
+Achlya,hypogyna,,,,,NCBI,,,1202772
+Acropora,digitifera,,,,,NCBI,,OISTMarine,70779
+Acytostelium,subglobosum,,,,,NCBI,,,361139
+Albugo,candida,,,EnsemblProtists,,,,,65357
+Albugo,laibachii,,Nc14,EnsemblProtists,,,,,890382
+Amphimedon,queenslandica,,,,,NCBI,,,400682
+Angomonas,deanei,,,EnsemblProtists,,,,,59799
+Anncaliia,algerae,,PRA109,,,,EuPathDB,,1240240
+Anncaliia,algerae,,PRA339,,,,EuPathDB,,1288291
+Aphanomyces,astaci,,,EnsemblProtists,,,,,112090
+Aphanomyces,invadans,,,EnsemblProtists,,,,,157072
+Aplanochytrium,kerguelense,,PBS07,,JGI,,,,702273
+Aurantiochytrium,limacinum,,ATCC MYA-1381,,JGI,,,,717989
+Aureococcus,anophagefferens,,,EnsemblProtists,JGI,,,,44056
+Babesia,bigemina,,,EnsemblProtists,,,,,5866
+Babesia,bovis,,,EnsemblProtists,,,EuPathDB,,5865
+Babesia,microti,,strain RI,EnsemblProtists,,,EuPathDB,,1133968
+Bathycoccus,prasinos,,,,,NCBI,,,41875
+Bigelowiella,natans,,CCMP2755,EnsemblProtists,JGI,,,,753081
+Bigelowiella,natans,,,EnsemblProtists,,,,,227086
+Blastocladiella,emersonii,,,,,,,richardslab,4808
+Blastocystis,hominis,,,EnsemblProtists,,,,,12968
+Bodo,saltans,,,EnsemblProtists,,,,GeneDB,75058
+Bursaphelenchus,xylophilus,,,,,,,GeneDB,6326
+Capsaspora,owczarzaki,,ATCC 30864,EnsemblProtists,,,,,595528
+Catharanthus,roseus,,,,,,,OrcAE,4058
+Cercospora,beticola,,,,,NCBI,,,122368
+Chlorell,sp.,,A99,,,,,OISTMarine,2041167
+Chromera,velia,,CCMP2878,,,,EuPathDB,,1169474
+Chroomonas,mesostigmatica,,CCMP1168,EnsemblProtists,,,,,1195612
+Cladosiphon,okamuranus,,,,,,,OISTMarine,309737
+Cryptomonas,paramecium,,,EnsemblProtists,,,,,2898
+Cryptophyceae,sp.,,CCMP2293,,JGI,,,,3027
+Cryptosporidium,andersoni,,,EnsemblProtists,,,EuPathDB,,117008
+Cryptosporidium,hominis,,,,,,EuPathDB,,237895
+Cryptosporidium,hominis,,TU502,,,,EuPathDB,,353151
+Cryptosporidium,muris,,RN66,EnsemblProtists,,,EuPathDB,,441375
+Cryptosporidium,parvum,,,EnsemblProtists,,,,,5807
+Cryptosporidium,parvum,,Iowa II,EnsemblProtists,,,EuPathDB,,353152
+Cryptosporidium,tyzzeri,,,,,,EuPathDB,,756076
+Cryptosporidium,ubiquitum,,,EnsemblProtists,,,EuPathDB,,857276
+Cyanophora,paradoxa,,,,,,,Rutgers,2762
+Cyclospora,cayetanensis,,,EnsemblProtists,,,,,88456
+Dictyostelium,discoideum,,AX4,EnsemblProtists,,,,,352472
+Dictyostelium,fasciculatum,,,EnsemblProtists,,,,,261658
+Dictyostelium,lacteum,,,EnsemblProtists,,,,,361077
+Dictyostelium,purpureum,,,EnsemblProtists,JGI,,,,5786
+Echinococcus,granulosus,,,,,,,GeneDB,6210
+Echinococcus,multilocularis,,,,,,,GeneDB,6211
+Ectocarpus,siliculosus,,,,,,,OrcAE,2880
+Edhazardia,aedis,,USNM 41457,,,,MicrosporidiaDB,,1003232
+Eimeria,acervulina,,,EnsemblProtists,,,,,5801
+Eimeria,brunetti,,,EnsemblProtists,,,,,51314
+Eimeria,maxima,,,EnsemblProtists,,,,,5804
+Eimeria,mitis,,,EnsemblProtists,,,,,44415
+Eimeria,necatrix,,,EnsemblProtists,,,,,51315
+Eimeria,praecox,,,EnsemblProtists,,,,,51316
+Eimeria,tenella,,,EnsemblProtists,,,,,5802
+Eimeria,tenella,,strain Houghton,,,,,ToxoDB,413949
+Emiliania,huxleyi,,CCMP1516,EnsemblProtists,JGI,,,,280463
+Encephalitozoon,cuniculi,,GB-M1,,,,MicrosporidiaDB,,284813
+Encephalitozoon,cuniculi,,EC1,,,,MicrosporidiaDB,,986730
+Encephalitozoon,cuniculi,,EC2,,,,MicrosporidiaDB,,989654
+Encephalitozoon,cuniculi,,EC3,,,,MicrosporidiaDB,,989655
+Encephalitozoon,hellem,,ATCC 50504,,,,MicrosporidiaDB,,907965
+Encephalitozoon,intestinalis,,ATCC 50506,,,,MicrosporidiaDB,,876142
+Encephalitozoon,romaleae,,SJ-2008,,,,MicrosporidiaDB,,1178016
+Entamoeba,dispar,,SAW760,EnsemblProtists,,,AmoebaDB,,370354
+Entamoeba,histolytica,,HM-1:IMSS,EnsemblProtists,,,,,294381
+Entamoeba,histolytica,,,EnsemblProtists,,,,,5759
+Entamoeba,histolytica,,HM-1:IMSS-A,EnsemblProtists,,,,,885318
+Entamoeba,histolytica,,HM-1:IMSS-B,EnsemblProtists,,,,,885319
+Entamoeba,histolytica,,HM-3:IMSS,EnsemblProtists,,,,,885315
+Entamoeba,histolytica,,KU27,EnsemblProtists,,,,,885311
+Entamoeba,histolytica,,HM-1:IMSS,,,,AmoebaDB,,294381
+Entamoeba,histolytica,,HM-1:IMSS-A,,,,AmoebaDB,,885318
+Entamoeba,histolytica,,HM-1:IMSS-B,,,,AmoebaDB,,885319
+Entamoeba,histolytica,,HM-3:IMSS,,,,AmoebaDB,,885315
+Entamoeba,histolytica,,KU27,,,,AmoebaDB,,885311
+Entamoeba,invadens,,IP1,EnsemblProtists,,,AmoebaDB,,370355
+Entamoeba,moshkovskii,,,,,,AmoebaDB,,41668
+Entamoeba,nuttalli,,P19,EnsemblProtists,,,AmoebaDB,,1076696
+Enterocytozoon,bieneusi,,H348,,,,MicrosporidiaDB,,481877
+Fonticula,alba,,,EnsemblProtists,,,,,691883
+Fragilariopsis,cylindrus,,CCMP1102,,JGI,,,,635003
+Giardia,intestinalis,,,EnsemblProtists,,,,,5741
+Giardia,intestinalis,,ATCC 50581,EnsemblProtists,,,GiardiaDB,,598745
+Giardia,intestinalis,,assemblage_B,EnsemblProtists,,,,,1394984
+Giardia,lamblia,,ATCC 50803,EnsemblProtists,,,GiardiaDB,,184922
+Giardia,lamblia,,P15,EnsemblProtists,,,GiardiaDB,,658858
+Globodera,pallida,,,,,,,GeneDB,36090
+Gregarina,niphandrodes,,,EnsemblProtists,,,CryptoDB,,110365
+Guillardia,theta,,,EnsemblProtists,,,,,55529
+Guillardia,theta,,CCMP2712,EnsemblProtists,JGI,,,,905079
+Hammondia,hammondi,,,EnsemblProtists,,,,,99158
+Hyaloperonospora,arabidopsidis,,Emoy2,EnsemblProtists,,,,,559515
+Hymenolepis,microstoma,,,,,,,GeneDB,85433
+Hyphochytrium,catenoides,,,,,,,richardslab,42384
+Ichthyophthirius,multifiliis,,,EnsemblProtists,,,,,5932
+Leishmania,aethiopica,,L147,,,,TriTrypDB,,1206056
+Leishmania,braziliensis,,MHOM/BR/75/M2904,EnsemblProtists,,,TriTrypDB,,420245
+Leishmania,braziliensis,,MHOM/BR/75/M2903,,,,TriTrypDB,,1295825
+Leishmania,donovani,,BPK282A1,EnsemblProtists,,,TriTrypDB,,981087
+Leishmania,infantum,,JPCM5,EnsemblProtists,,,TriTrypDB,,435258
+Leishmania,major,,strain Friedlin,EnsemblProtists,,,TriTrypDB,,347515
+Leishmania,major,,strain LV39c5,,,,TriTrypDB,,860569
+Leishmania,major,,strain SD 75.1,,,,TriTrypDB,,860570
+Leishmania,mexicana,,MHOM/GT/2001/U1103,EnsemblProtists,,,TriTrypDB,,929439
+Leishmania,panamensis,,,EnsemblProtists,,,,,5679
+Leishmania,panamensis,,MHOM/COL/81/L13,,,,TriTrypDB,,1295824
+Leishmania,sp.,,MAR LEM2494,,,,TriTrypDB,,1303197
+Leishmania,tropica,,L590,,,,TriTrypDB,,1206058
+Leptomonas,pyrrhocoris,,,EnsemblProtists,,,,,157538
+Leptomonas,seymouri,,,EnsemblProtists,,,,,5684
+Lingula,anatina,,,,,,,OISTMarine,7574
+Lotharella,oceanica,,,EnsemblProtists,,,,,641309
+Monosiga,brevicollis,,MX1,EnsemblProtists,JGI,,,,431895
+Naegleria,fowleri,,,,,,AmoebaDB,,5763
+Naegleria,gruberi,,,EnsemblProtists,JGI,,,,5762
+Nannochloropsis,gaditana,,,EnsemblProtists,,,,,72520
+Nannochloropsis,gaditana,,CCMP526,EnsemblProtists,,,,,1093141
+Nematocida,parisii,,ERTm1,,,,MicrosporidiaDB,,881290
+Nematocida,parisii,,ERTm3,,,,MicrosporidiaDB,,935791
+Neospora,caninum,,Liverpool,,,,ToxoDB,GeneDB,572307
+Nosema,bombycis,,CQ1,,,,MicrosporidiaDB,,578461
+Nosema,ceranae,,BRL01,,,,MicrosporidiaDB,,578460
+Notospermus,geniculatus,,,,,,,OISTMarine,416868
+Ochromonadaceae,sp.,,CCMP2298,,JGI,,,,88165
+Ordospora,colligata,,OC4,,,,MicrosporidiaDB,,1354746
+Oxytricha,trifallax,,,,,,EnsemblProtists,,1172189
+Paramecium,tetraurelia,,,,,,EnsemblProtists,,5888
+Paulinella,chromatophora,,,,,,EnsemblProtists,,39717
+Pavlovales,sp.,,CCMP2436,,JGI,,,,73026
+Pelagophyceae,sp.,,CCMP2097,,JGI,,,,35675
+Perkinsela,sp.,,CCAP 1560/4,EnsemblProtists,,,,,1314962
+Perkinsus,marinus,,ATCC_50983,EnsemblProtists,,,,,423536
+Phaeodactylum,tricornutum,,CCAP 1055/1,EnsemblProtists,JGI,,,,556484
+Phoenix,dactylifera,,,,,NCBI,,,42345
+Phoronis,australis,,,,,,,OISTMarine,115415
+Phytomonas,sp,,Isolate EM1,EnsemblProtists,,,,,134006
+Phytomonas,sp,,Isolate Hart1,EnsemblProtists,,,,,134013
+Phytophthora,capsici,,LT1534,,JGI,,,,763924
+Phytophthora,cinnamomi,var. cinnamomi,,,JGI,,,,622258
+Phytophthora,infestans,,T30-4,EnsemblProtists,,,,,403677
+Phytophthora,kernoviae,,00238/432,EnsemblProtists,,,,,1284355
+Phytophthora,lateralis,,MPF4,EnsemblProtists,,,,,1254522
+Phytophthora,nicotianae,,,EnsemblProtists,,,,,4790
+Phytophthora,parasitica,,P1569,EnsemblProtists,,,,,1317065
+Phytophthora,parasitica,,CJ01A1,EnsemblProtists,,,,,1317063
+Phytophthora,parasitica,,INRA-310,EnsemblProtists,,,,,761204
+Phytophthora,parasitica,,P10297,EnsemblProtists,,,,,1317064
+Phytophthora,parasitica,,P1976,EnsemblProtists,,,,,1317066
+Phytophthora,ramorum,,,EnsemblProtists,JGI,,,,164328
+Phytophthora,sojae,,,EnsemblProtists,JGI,,,,67593
+Pinctada,fucata,,,,,,,OISTMarine,50426
+Plasmodiophora,brassicae,,,EnsemblProtists,,,,,37360
+Plasmodium,berghei,,ANKA,EnsemblProtists,,,PlasmoDB,,5823
+Plasmodium,berghei,,,EnsemblProtists,,,,,5821
+Plasmodium,chabaudi,,chabaudi,EnsemblProtists,,,PlasmoDB,,31271
+Plasmodium,coatneyi,,,EnsemblProtists,,,,,208452
+Plasmodium,cynomolgi,,strain B,EnsemblProtists,,,PlasmoDB,,1120755
+Plasmodium,cynomolgi,,strain M,,,,PlasmoDB,,1274352
+Plasmodium,falciparum,,3D7,EnsemblProtists,,,,,36329
+Plasmodium,falciparum,,7G8,EnsemblProtists,,,,,57266
+Plasmodium,falciparum,,CAMP/Malaysia,EnsemblProtists,,,,,5835
+Plasmodium,falciparum,,Dd2,EnsemblProtists,,,,,57267
+Plasmodium,falciparum,,FCH/4,EnsemblProtists,,,,,1036724
+Plasmodium,falciparum,,HB3,EnsemblProtists,,,,,137071
+Plasmodium,falciparum,,IGH-CR14,EnsemblProtists,,,,,580059
+Plasmodium,falciparum,,MaliPS096_E11,EnsemblProtists,,,,,1036727
+Plasmodium,falciparum,,NF135/5.C10,EnsemblProtists,,,,,1036726
+Plasmodium,falciparum,,NF54,EnsemblProtists,,,,,5843
+Plasmodium,falciparum,,Palo Alto/Uganda,EnsemblProtists,,,,,57270
+Plasmodium,falciparum,,RAJ116,EnsemblProtists,,,,,580058
+Plasmodium,falciparum,,Santa Lucia,EnsemblProtists,,,,,478859
+Plasmodium,falciparum,,Tanzania (2000708),EnsemblProtists,,,,,1036725
+Plasmodium,falciparum,,UGT5_1,EnsemblProtists,,,,,1237627
+Plasmodium,falciparum,,Vietnam Oak-Knoll (FVO),EnsemblProtists,,,,,1036723
+Plasmodium,falciparum,,3D7,,,,PlasmoDB,,36329
+Plasmodium,fragile,,,EnsemblProtists,,,,,5857
+Plasmodium,gaboni,,,EnsemblProtists,,,,,647221
+Plasmodium,inui,,San Antonio 1,EnsemblProtists,,,PlasmoDB,,1237626
+Plasmodium,knowlesi,,strain H,EnsemblProtists,,,PlasmoDB,,5851
+Plasmodium,malariae,,,EnsemblProtists,,,,,5858
+Plasmodium,ovale,,curtisi,EnsemblProtists,,,,,864141
+Plasmodium,ovale,,wallikeri,EnsemblProtists,,,,,864142
+Plasmodium,reichenowi,,,EnsemblProtists,,,,,5854
+Plasmodium,vinckei,,petteri,EnsemblProtists,,,,,138298
+Plasmodium,vinckei,,vinckei,EnsemblProtists,,,,,54757
+Plasmodium,vivax,,,EnsemblProtists,,,,,5855
+Plasmodium,vivax,,Brazil I,EnsemblProtists,,,,,1033975
+Plasmodium,vivax,,India VII,EnsemblProtists,,,,,1077284
+Plasmodium,vivax,,Mauritania I,EnsemblProtists,,,,,1035515
+Plasmodium,vivax,,North Korean,EnsemblProtists,,,,,1035514
+Plasmodium,vivax,,Sal-1,,,,PlasmoDB,,126793
+Plasmodium,yoelii,,,EnsemblProtists,,,,,5861
+Plasmodium,yoelii,,17X,EnsemblProtists,,,,,1323249
+Plasmodium,yoelii,,yoelii,EnsemblProtists,,,,,73239
+Plasmodium,yoelii,,yoelii 17XNL,,,,PlasmoDB,,352914
+Plasmopara,halstedii,,,EnsemblProtists,,,,,4781
+Polysphondylium,pallidum,,PN500,EnsemblProtists,,,,,670386
+Porphyridium,purpureum,,,,,,,Rutgers,35688
+Pseudo-nitzschia,multiseries,,CLN-47,,JGI,,,,635002
+Pseudocohnilembus,persalinus,,,EnsemblProtists,,,,,266149
+Ptychodera ,flava,,,,,,,OISTMarine,63121
+Pyropia,yezoensis,,,,,,,NRIFS,2788
+Pythium,aphanidermatum,,DAOM BR444,EnsemblProtists,,,,,1223555
+Pythium,arrhenomanes,,ATCC 12531,EnsemblProtists,,,,,1223556
+Pythium,irregulare,,DAOM BR486,EnsemblProtists,,,,,1223557
+Pythium,iwayamai,,DAOM BR242034,EnsemblProtists,,,,,1223558
+Pythium,ultimum,,DAOM BR144,EnsemblProtists,,,,,431595
+Pythium,vexans,,DAOM BR484,EnsemblProtists,,,,,1223560
+Reticulomyxa,filosa,,,EnsemblProtists,,,,,46433
+Saccharomyces,mikatae,,IFO 1815,,,,,saccharomycessensustricto.org,226126
+Saccharomyces,paradoxus,,,,,,,saccharomycessensustricto.org,27291
+Saccoglossus,kowalevskii,,,,,NCBI,,,10224
+Salpingoeca,rosetta,,,EnsemblProtists,,,,,946362
+Saprolegnia,diclina,,VS20,EnsemblProtists,,,,,1156394
+Saprolegnia,parasitica,,CBS 223.65,EnsemblProtists,,,,,695850
+Schistosoma,mansoni,,,,,,,GeneDB,6183
+Schizochytrium,aggregatum,,ATCC 28209,,JGI,,,,876976
+Schrenkiella,parvulum,,,,,,,thellungiella.org,98039
+Sphaeroforma,arctica,,JP610,EnsemblProtists,,,,,667725
+Spironucleus,salmonicida,,,EnsemblProtists,,,,GiardiaDB,348837
+Spraguea,lophii,,42_110,,,,,MicrosporidiaDB,1358809
+Stentor,coeruleus,,,EnsemblProtists,,,,,5963
+Strigomonas,culicis,,,EnsemblProtists,,,,,28005
+Stylonychia,lemnae,,,EnsemblProtists,,,,,5949
+Symbiodinium,minutum,,,,,,,OISTMarine,1202447
+Tetrahymena,borealis,,,,,,,cilliate.org,5893
+Tetrahymena,elliotti,,,,,,,cilliate.org,5897
+Tetrahymena,malaccensis,,,,,,,cilliate.org,5901
+Tetrahymena,thermophila,,SB210,EnsemblProtists,,,,,312017
+Thalassiosira,oceanica,,,EnsemblProtists,,,,,159749
+Thalassiosira,oceanica,,CCMP1005,EnsemblProtists,,,,,637379
+Thalassiosira,pseudonana,,CCMP1335,EnsemblProtists,JGI,,,,296543
+Thecamonas,trahens,,ATCC 50062,EnsemblProtists,,,,,461836
+Theileria,annulata,,,EnsemblProtists,,,,,5874
+Theileria,annulata,,strain Ankara,,,,PiroplasmaDB,,353154
+Theileria,annulata,,,,,,,GeneDB,5874
+Theileria,equi,,strain WA,EnsemblProtists,,,PiroplasmaDB,,1537102
+Theileria,orientalis,,strain Shintoku,EnsemblProtists,,,PiroplasmaDB,,869250
+Theileria,parva,,,EnsemblProtists,,,,,5875
+Theileria,parva,,strain Muguga,,,,PiroplasmaDB,,333668
+Thraustotheca,clavata,,,,,NCBI,,,74557
+Toxoplasma,gondii,,ME49,EnsemblProtists,,,ToxoDB,,508771
+Toxoplasma,gondii,,ARI,EnsemblProtists,,,ToxoDB,,1074872
+Toxoplasma,gondii,,FOU,EnsemblProtists,,,ToxoDB,,943167
+Toxoplasma,gondii,,GAB2-2007-GAL-DOM2,EnsemblProtists,,,ToxoDB,,1130820
+Toxoplasma,gondii,,GT1,EnsemblProtists,,,ToxoDB,,507601
+Toxoplasma,gondii,,MAS,EnsemblProtists,,,ToxoDB,,943118
+Toxoplasma,gondii,,RUB,EnsemblProtists,,,ToxoDB,,935652
+Toxoplasma,gondii,,TgCatPRC2,EnsemblProtists,,,ToxoDB,,1130821
+Toxoplasma,gondii,,VAND,EnsemblProtists,,,ToxoDB,,933077
+Toxoplasma,gondii,,VEG,EnsemblProtists,,,ToxoDB,,432359
+Toxoplasma,gondii,,p89,EnsemblProtists,,,ToxoDB,,943119
+Toxoplasma,gondii,,RH,,,,ToxoDB,,383379
+Trichomonas,vaginalis,,G3,EnsemblProtists,,,TrichDB,,412133
+Trypanosoma,brucei,,,EnsemblProtists,,,,,5691
+Trypanosoma,brucei,,brucei TREU927,,,,TriTrypDB,,185431
+Trypanosoma,brucei,,gambiense DAL972,,,,TriTrypDB,,679716
+Trypanosoma,congolense,,IL3000,,,,TriTrypDB,,1068625
+Trypanosoma,cruzi,,,EnsemblProtists,,,,,5693
+Trypanosoma,cruzi,,Dm28c,EnsemblProtists,,,,,1416333
+Trypanosoma,cruzi,,marinkellei,EnsemblProtists,,,,,85056
+Trypanosoma,cruzi,,Dm28c,,,,TriTrypDB,,1416333
+Trypanosoma,cruzi,,strain CL Brener,,,,TriTrypDB,,353153
+Trypanosoma,rangeli,,SC58,EnsemblProtists,,,TriTrypDB,,429131
+Trypanosoma,vivax,,Y486,,,,TriTrypDB,,1055687
+Vavraia,culicis,subsp. floridensis,,,,,MicrosporidiaDB,,948595
+Vitrella,brassicaformis,,CCMP3155,EnsemblProtists,,,CryptoDB,,1169540
+Vittaforma,corneae,,ATCC 50505,,,,MicrosporidiaDB,,993615
+Wuchereria,bancrofti,,,,,,,wormbase,6293
+,,,,170,22,9,93,36,

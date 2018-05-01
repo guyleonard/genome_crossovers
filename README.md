@@ -71,7 +71,24 @@ For example, we can see that:
 You can access the data, [here](https://github.com/guyleonard/genome_crossovers/blob/master/metazoa/metazoa.csv), and the code to make the plot [here](https://github.com/guyleonard/genome_crossovers/blob/master/metazoa/metazoa_plot.r)
 
 ## Protists / Other
+The total number of genomes from each of the 'big' genome portals are as below:
 
+Ensembl|JGI|NCBI|EuPathDB|Other|Total|Unique Total
+-------|---|----|--------|-----|-----|------------
+170|22|9|93|36|330|*275*
+
+### UpSetR Plot
+Their intersections are as below, this is like a Venn diagram but 1000x better:
+
+![](https://github.com/guyleonard/genome_crossovers/raw/master/protists_and_others/protists_and_others.png)
+
+For example, we can see that:
+
+ * Ensembl has the largest collection of protists in one place 
+ * Lots of protists exists in their own genome portal, or subsideries of others e.g. EuPathDB
+ * NCBI maybe be underepresented in this graph!
+
+You can access the data, [here](https://github.com/guyleonard/genome_crossovers/blob/master/protists_and_others/protists_and_others.csv), and the code to make the plot [here](https://github.com/guyleonard/genome_crossovers/blob/master/protists_and_others/protists_and_others_plot.R)
 
 # Caveats
 
