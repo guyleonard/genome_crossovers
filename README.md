@@ -13,8 +13,16 @@ Ensembl|JGI|FungiDB|Other|NCBI
 761|874|81|25|900
 
 ### Upset Plot
+Their intersections are as below, this is like a Venn diagram but 1000x better:
+
 ![](https://github.com/guyleonard/genome_crossovers/raw/master/fungi/fungi_jgi_ensembl_other_ncbi.png)
 
+For example, we can see that:
+
+ * whilst NCBI contains the most genomes, only 91 are unique
+ * whereas JGI has the most number of unique genomes at 531 not available elsewhere
+ * the 4 genome portals share 39 of the same genomes
+ * with Ensembl and NCBI having the largest overlap
 
 ## Plants
 
