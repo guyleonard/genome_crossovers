@@ -20,9 +20,13 @@ Their intersections are as below, this is like a Venn diagram but 1000x better:
 For example, we can see that:
 
  * whilst NCBI contains the most genomes, only 91 are unique
- * whereas JGI has the most number of unique genomes at 531 not available elsewhere
+ * whereas JGI has the most number of unique genomes at 530 not available elsewhere
  * the 4 genome portals share 39 of the same genomes
  * with Ensembl and NCBI having the largest overlap
+
+I think that's pretty revealing, if you're going to try and cover taxonomic diveristy of taxa in your analyses, you're going to need to use more than just NCBI!
+
+You can access the data, [here](https://github.com/guyleonard/genome_crossovers/blob/master/fungi/fungi_all.csv), and the code to make the plot [here](https://github.com/guyleonard/genome_crossovers/blob/master/fungi/fungi_plot.R).
 
 ## Plants
 
