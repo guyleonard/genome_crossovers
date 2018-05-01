@@ -35,7 +35,7 @@ The total number of genomes from each of the 'big' genome portals are as below:
 
 Ensembl|JGI|NCBI|Total|Unique Total
 -------|---|----|-----|------------
-53|85|87|225|148
+53|85|87|225|*148*
 
 ### UpSetR Plot
 Their intersections are as below, this is like a Venn diagram but 1000x better:
@@ -52,6 +52,23 @@ You can access the data, [here](https://github.com/guyleonard/genome_crossovers/
 
 
 ## Metazoa
+The total number of genomes from each of the 'big' genome portals are as below:
+
+Ensembl|JGI|NCBI|Total|Unique Total
+-------|---|----|-----|------------
+162|26|371|559|*433*
+
+### UpSetR Plot
+Their intersections are as below, this is like a Venn diagram but 1000x better:
+
+![](https://github.com/guyleonard/genome_crossovers/raw/master/metazoa/metazoa.png)
+
+For example, we can see that:
+ 
+ * Very few taxa exist in all 3 portals
+ * NCBI seems to be very metazoan heavy!
+
+You can access the data, [here](https://github.com/guyleonard/genome_crossovers/blob/master/metazoa/metazoa.csv), and the code to make the plot [here](https://github.com/guyleonard/genome_crossovers/blob/master/metazoa/metazoa_plot.r)
 
 ## Protists / Other
 
@@ -61,7 +78,7 @@ You can access the data, [here](https://github.com/guyleonard/genome_crossovers/
 These lists were curated from various sources. Not everyone makes their information easily accessible. So, I have probably missed taxa and if it's your favourite one, then I apologise!
 
 ## NCBI
-They have a list hidden away in their FTP site [here](ftp://ftp.ncbi.nlm.nih.gov/genomes/GENOME_REPORTS/). Is it complete? Hard to say. Is it full of duplicates and multiple assemblies? Yes. If anyone knows of a better list then please feel free to let me know and tell NCBI to make it more obvious.
+They have a list hidden away in their FTP site @ ftp://ftp.ncbi.nlm.nih.gov/genomes/GENOME_REPORTS/. Is it complete? Hard to say. Is it full of duplicates and multiple assemblies? Yes. If anyone knows of a better list then please feel free to let me know and tell NCBI to make it more obvious.
 
 ## JGI
 Fungi seem to be all contained in Mycocosm now, which is great but wasn't always the case. Other taxa plants/protists are not all in their own '-cosms' or '-zomes' though. So it's a bit more hit and miss. I have to parse their XMLs with scripts [here](https://github.com/guyleonard/get_jgi_genomes) or just look at the genome portal web page, one by one.
