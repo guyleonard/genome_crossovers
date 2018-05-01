@@ -48,6 +48,9 @@ For example, we can see that:
  * but JGI is a close second
  * and there's surprisingly few shared between the portals
 
+You can access the data, [here](https://github.com/guyleonard/genome_crossovers/blob/master/plants/plants.csv), and the code to make the plot [here](https://github.com/guyleonard/genome_crossovers/blob/master/plants/plants_plot.R).
+
+
 ## Metazoa
 
 ## Protists / Other
