@@ -12,6 +12,8 @@ Ensembl|JGI|FungiDB|Other|NCBI
 -------|---|-------|-----|----
 761|874|81|25|900
 
+### Upset Plot
+![](https://github.com/guyleonard/genome_crossovers/raw/master/fungi/fungi_jgi_ensembl_other_ncbi.png)
 
 
 ## Plants
