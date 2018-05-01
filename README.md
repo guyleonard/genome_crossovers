@@ -8,9 +8,9 @@ I am only really interested in keeping track of the Eukaryotes (for another proj
 ## Fungi
 The total number of genomes from each of the 'big' genome portals are as below:
 
-Ensembl|JGI|FungiDB|Other|NCBI
--------|---|-------|-----|----
-761|874|81|25|900
+Ensembl|JGI|FungiDB|Other|NCBI|Total|Unique Total
+-------|---|-------|-----|----|-----|------------
+761|874|81|25|900|2641|*1493*
 
 ### UpSetR Plot
 Their intersections are as below, this is like a Venn diagram but 1000x better:
@@ -26,7 +26,7 @@ For example, we can see that:
 
 I think that's pretty revealing, if you're going to try and cover taxonomic diveristy of taxa in your analyses, you're going to need to use more than just NCBI! Of course, you will need to explore the data more thouroughly, some genera have more sequencing projects than others and that is likely inflating some of the numbers...
 
-And so you can access the data, [here](https://github.com/guyleonard/genome_crossovers/blob/master/fungi/fungi_all.csv), and the code to make the plot [here](https://github.com/guyleonard/genome_crossovers/blob/master/fungi/fungi_plot.R), there are other examples in the Fungi directory.
+And so you can access the data, [here](https://github.com/guyleonard/genome_crossovers/blob/master/fungi/fungi.csv), and the code to make the plot [here](https://github.com/guyleonard/genome_crossovers/blob/master/fungi/fungi_plot.R), there are other examples in the Fungi directory.
 
 ## Plants
 Continuing with the loose definitions, plants = anything green...
