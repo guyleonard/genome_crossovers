@@ -7,9 +7,11 @@ I am only really interested in keeping track of the Eukaryotes (for another proj
 
 ## Fungi
 
+The total number of genomes from each of the 'big' genome portals are as below:
 Ensembl|JGI|FungiDB|Other|NCBI
 -------|---|-------|-----|----
 761|874|81|25|900
+
 
 
 ## Plants
