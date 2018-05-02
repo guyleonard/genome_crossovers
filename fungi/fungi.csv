@@ -11,8 +11,8 @@ Acidothrix,acidophila,,CBS 136259,,,JGI,,,,1442179
 Acremonium,alcalophilum,,,,,JGI,,,,398408
 Acremonium,chrysogenum,,ATCC 11550,,Ensembl,JGI,,,NCBI,857340
 Acremonium,strictum,,,,,JGI,,,,5046
-Agaricus,bisporus,var. bisporus,H97,,,JGI,,,NCBI,936046
 Agaricus,bisporus,var. burnettii,JB137-S8,,Ensembl,JGI,,,NCBI,597362
+Agaricus,bisporus,var. bisporus,H97,,,JGI,,,NCBI,936046
 Agrocybe,pediades,,,,,JGI,,,,84607
 Aliquandostipite,khaoyaiensis,,,,,JGI,,,,112102
 Allomyces,macrogynus,,ATCC 38327,,Ensembl,JGI,FungiDB,,NCBI,578462
@@ -21,8 +21,8 @@ Alternaria,brassicicola,,,,,JGI,,,,29001
 Amanita,muscaria,,Koide BX008,,Ensembl,JGI,,,NCBI,946122
 Amanita,thiersii,,Skay4041,,,JGI,,,NCBI,703135
 Amniculicola,lignicola,,CBS 123094,,,JGI,,,,1392246
-Amorphotheca,resinae,,ATCC 22711,,,,,,NCBI,857342
 Amorphotheca,resinae,,,,,JGI,,,,5101
+Amorphotheca,resinae,,ATCC 22711,,,,,,NCBI,857342
 Ampelomyces,quisqualis,,,,,JGI,,,,50730
 Amphiamblys,sp.,,WSBS2006,,Ensembl,,,,NCBI,1866961
 Amylostereum,chailletii,,,,,JGI,,,,55340
@@ -73,13 +73,13 @@ Aspergillus,ellipticus,,CBS 707.79,,,JGI,,,,1448320
 Aspergillus,eucalypticola,,CBS 122712,,,JGI,,,,1448314
 Aspergillus,fijiensis,,CBS 313.89,,,JGI,,,,1448319
 Aspergillus,fischeri,,NRRL 181,,,,FungiDB,,NCBI,331117
-Aspergillus,flavus,,AF70,,Ensembl,,,,NCBI,1392242
 Aspergillus,flavus,,NRRL3357,,Ensembl,JGI,FungiDB,,NCBI,332952
-Aspergillus,fumigatus,var.,RP-2014,,Ensembl,,,,NCBI,1476192
+Aspergillus,flavus,,AF70,,Ensembl,,,,NCBI,1392242
 Aspergillus,fumigatus,,A1163,,Ensembl,JGI,FungiDB,,NCBI,451804
-Aspergillus,fumigatus,,Af293,,,JGI,FungiDB,,NCBI,330879
+Aspergillus,fumigatus,var.,RP-2014,,Ensembl,,,,NCBI,1476192
 Aspergillus,fumigatus,,Z5,,Ensembl,,,,NCBI,1437362
 Aspergillus,fumigatus,,,,Ensembl,,,,NCBI,330879
+Aspergillus,fumigatus,,Af293,,,JGI,FungiDB,,NCBI,330879
 Aspergillus,glaucus,,CBS 516.65,,Ensembl,,FungiDB,,NCBI,1160497
 Aspergillus,glaucus,,,,,JGI,,,,41413
 Aspergillus,heteromorphus,,CBS 117.55,,,JGI,,,,1448321
@@ -98,17 +98,17 @@ Aspergillus,neoniger,,CBS 115656,,,JGI,,,,1448310
 Aspergillus,nidulans,,FGSC A4,,Ensembl,,FungiDB,,NCBI,227321
 Aspergillus,nidulans,,,,,JGI,,,,162425
 Aspergillus,niger,,ATCC 1015,,Ensembl,JGI,FungiDB,,NCBI,380704
-Aspergillus,niger,,ATCC 13496,,,JGI,,,,1353008
-Aspergillus,niger,,CBS 513.88,,,JGI,FungiDB,,,425011
 Aspergillus,niger,,NRRL3,,Ensembl,JGI,,,NCBI,1451139
+Aspergillus,niger,,CBS 513.88,,,JGI,FungiDB,,,425011
+Aspergillus,niger,,ATCC 13496,,,JGI,,,,1353008
 Aspergillus,nomius,,NRRL 13137,,Ensembl,JGI,,,NCBI,1509407
 Aspergillus,novofumigatus,,IBT 16806,,,JGI,,,NCBI,1392255
-Aspergillus,ochraceoroseus,,IBT 24754,,,JGI,,,NCBI,1392256
 Aspergillus,ochraceoroseus,,,,Ensembl,JGI,,,NCBI,138278
+Aspergillus,ochraceoroseus,,IBT 24754,,,JGI,,,NCBI,1392256
 Aspergillus,olivicola,,,,,JGI,,,,1250372
+Aspergillus,oryzae,,RIB40,,Ensembl,JGI,FungiDB,,NCBI,510516
 Aspergillus,oryzae,,3.042,,Ensembl,,,,NCBI,1160506
 Aspergillus,oryzae,,100-8,,Ensembl,,,,NCBI,1197718
-Aspergillus,oryzae,,RIB40,,Ensembl,JGI,FungiDB,,NCBI,510516
 Aspergillus,oryzae,,,,,,,,NCBI,5062
 Aspergillus,parasiticus,,SU-1,,Ensembl,,,,NCBI,1403190
 Aspergillus,phoenicis,,ATCC 13157,,,JGI,,,,1353007
@@ -121,8 +121,8 @@ Aspergillus,sclerotiicarbonarius,,CBS 121057,,,JGI,,,,1448318
 Aspergillus,sclerotioniger,,CBS 115572,,,JGI,,,,1450535
 Aspergillus,steynii,,IBT 23096,,,JGI,,,NCBI,1392250
 Aspergillus,sydowii,,CBS 593.65,,Ensembl,JGI,FungiDB,,NCBI,1036612
-Aspergillus,terreus,,NIH2624,,,JGI,FungiDB,,NCBI,341663
 Aspergillus,terreus,,,,Ensembl,,,,,341663
+Aspergillus,terreus,,NIH2624,,,JGI,FungiDB,,NCBI,341663
 Aspergillus,thermomutatus,,,,,,,,NCBI,41047
 Aspergillus,tubingensis,,CBS 134.48,,Ensembl,JGI,FungiDB,,NCBI,767770
 Aspergillus,turcosus,,,,,,,,NCBI,1245748
@@ -133,8 +133,8 @@ Aspergillus,vadensis,,CBS 113365,,,JGI,,,,1448311
 Aspergillus,versicolor,,CBS 583.65,,Ensembl,,FungiDB,,NCBI,1036611
 Aspergillus,versicolor,,,,,JGI,,,,46472
 Aspergillus,violaceofuscus,,CBS 115571,,,JGI,,,,1450538
-Aspergillus,wentii,,DTO 1.34E+11,,,,,,NCBI,1073089
 Aspergillus,wentii,,DTO 134E9,,Ensembl,JGI,FungiDB,,,1073089
+Aspergillus,wentii,,DTO 1.34E+11,,,,,,NCBI,1073089
 Aspergillus,zonatus,,CBS 506.65,,,JGI,FungiDB,,,41063
 Asterochloris,sp.,,,,,JGI,,,,763042
 Atractiellales,sp.,,Cgr/DA1pho,,,JGI,,,,34420
@@ -143,8 +143,8 @@ Aureobasidium,pullulans,var. melanogenum,CBS 110374,,Ensembl,JGI,,,NCBI,1043003
 Aureobasidium,pullulans,var. namibiae,CBS 147.97,,Ensembl,JGI,,,NCBI,1043004
 Aureobasidium,pullulans,var. pullulans,EXF-150,,Ensembl,JGI,,,NCBI,1043002
 Aureobasidium,pullulans,var. subglaciale,EXF-2481,,,JGI,,,NCBI,1043005
-Auricularia,subglabra,,TFB-10046 SS5,,,,,,NCBI,717982
 Auricularia,subglabra,,,,,JGI,,,,1331295
+Auricularia,subglabra,,TFB-10046 SS5,,,,,,NCBI,717982
 Auriculariopsis,ampla,,,,,JGI,,,,97359
 Auriscalpium,vulgare,,,,,JGI,,,,40419
 Babjeviella,inositovora,,NRRL Y-12698,,Ensembl,JGI,,,NCBI,984486
@@ -174,14 +174,14 @@ Blakeslea,trispora,,,,,JGI,,,,4850
 Blastobotrys,adeninivorans,,,Arxula adeninivorans,,JGI,,,,409370
 Blastocladiella,britannica,,,,,JGI,,,,64508
 Blastocladiella,emersonii,,,,,,,richardslab,,4808
+Blastomyces,dermatitidis,,SLH14081,Blastomyces gilchristii SLH14081,Ensembl,JGI,,,NCBI,559298
 Blastomyces,dermatitidis,,ATCC 18188,Ajellomyces dermatitidis,Ensembl,,,,NCBI,653446
 Blastomyces,dermatitidis,,ATCC 26199,Ajellomyces dermatitidis,Ensembl,,,,NCBI,447095
 Blastomyces,dermatitidis,,ER-3,Ajellomyces dermatitidis,Ensembl,,,,NCBI,559297
-Blastomyces,dermatitidis,,SLH14081,Blastomyces gilchristii SLH14081,Ensembl,JGI,,,NCBI,559298
 Blastomyces,percursus,,,,Ensembl,,,,NCBI,1658174
-Blumeria,graminis,f. sp. hordei,DH14,,,JGI,,,NCBI,546991
 Blumeria,graminis,f. sp. tritici,96224,,Ensembl,JGI,,,NCBI,1268274
 Blumeria,graminis,,,,Ensembl,,,,,546991
+Blumeria,graminis,f. sp. hordei,DH14,,,JGI,,,NCBI,546991
 Blyttiomyces,helicus,,,,,JGI,,,,388810
 Bolbitius,vitellinus,,,,,JGI,,,,34439
 Boletus,edulis,,,,,JGI,,,,36056
@@ -189,9 +189,9 @@ Bombardia,bombarda,,,,,JGI,,,,252184
 Botryobasidium,botryosum,,FD-172 SS1,,Ensembl,,,,NCBI,930990
 Botryobasidium,botryosum,,,,,JGI,,,,264124
 Botryosphaeria,dothidea,,,,,JGI,,,,55169
+Botrytis,cinerea,,T4,,Ensembl,JGI,,,NCBI,999810
 Botrytis,cinerea,,B05.10,,Ensembl,,FungiDB,,NCBI,332648
 Botrytis,cinerea,,BcDW1,,Ensembl,,,,NCBI,1290391
-Botrytis,cinerea,,T4,,Ensembl,JGI,,,NCBI,999810
 Brettanomyces,bruxellensis,,AWRI1499,,Ensembl,,,,NCBI,1124627
 Bulgaria,inquinans,,,,,JGI,,,,73172
 Byssochlamys,spectabilis,,No. 5,,Ensembl,JGI,,,NCBI,1356009
@@ -204,6 +204,7 @@ Calocera,viscosa,,TUFC12733,,Ensembl,,,,NCBI,1330018
 Calocera,viscosa,,,,,JGI,,,,63146
 Caloscypha,fulgens,,,,,JGI,,,,47187
 Calosphaeria,pulchella,,,,,JGI,,,,312312
+Candida,albicans,,SC5314,,Ensembl,JGI,FungiDB,,NCBI,237561
 Candida,albicans,,12C,,Ensembl,,,,NCBI,1094981
 Candida,albicans,,19F,,Ensembl,,,,NCBI,1094987
 Candida,albicans,,Ca6,,Ensembl,,,,NCBI,1165368
@@ -225,7 +226,6 @@ Candida,albicans,,P78042,,Ensembl,,,,NCBI,1095000
 Candida,albicans,,P78048,,Ensembl,,,,NCBI,1094989
 Candida,albicans,,P87,,Ensembl,,,,NCBI,1094984
 Candida,albicans,,P94015,,Ensembl,,,,NCBI,1094983
-Candida,albicans,,SC5314,,Ensembl,JGI,FungiDB,,NCBI,237561
 Candida,albicans,,WO-1,,Ensembl,,,,NCBI,294748
 Candida,arabinofermentans,,NRRL YB-2248,,Ensembl,JGI,,,NCBI,983967
 Candida,auris,,,,Ensembl,,,,NCBI,498019
@@ -289,10 +289,10 @@ Clavulina,sp.,,PMI_390,,,JGI,,,,1486700
 Climacocystis,borealis,,,,,JGI,,,,239101
 Clohesyomyces,aquaticus,,,,,JGI,,,NCBI,1231657
 Clonostachys,rosea,,,,,JGI,,,,29856
+Coccidioides,immitis,,RS,,Ensembl,JGI,FungiDB,,NCBI,246410
 Coccidioides,immitis,,H538.4,,Ensembl,,FungiDB,,NCBI,396776
 Coccidioides,immitis,,RMSCC 2394,,Ensembl,,,,NCBI,404692
 Coccidioides,immitis,,RMSCC 3703,,Ensembl,,,,NCBI,454286
-Coccidioides,immitis,,RS,,Ensembl,JGI,FungiDB,,NCBI,246410
 Coccidioides,posadasii,str. Silveira,,,Ensembl,,FungiDB,,NCBI,443226
 Coccidioides,posadasii,,C735 delta SOWgp,,Ensembl,,FungiDB,,NCBI,222929
 Coccidioides,posadasii,,RMSCC 3488,,Ensembl,,FungiDB,,NCBI,454284
@@ -314,11 +314,11 @@ Colletotrichum,cereale,,,,,JGI,,,,343994
 Colletotrichum,chlorophyti,,,,Ensembl,,,,NCBI,708187
 Colletotrichum,eremochloae,,CBS 129661,,,JGI,,,,1173702
 Colletotrichum,falcatum,,,,,JGI,,,,129314
-Colletotrichum,fioriniae,,MH 18,Glomerella acutata,,JGI,,,,1314772
 Colletotrichum,fioriniae,,PJ7,,Ensembl,JGI,,,NCBI,1445577
-Colletotrichum,gloeosporioides,,23,Glomerella cingulata,,JGI,,,,1314770
+Colletotrichum,fioriniae,,MH 18,Glomerella acutata,,JGI,,,,1314772
 Colletotrichum,gloeosporioides,,Cg-14,,Ensembl,,,,NCBI,1237896
 Colletotrichum,gloeosporioides,,Nara gc5,,Ensembl,,,,NCBI,1213859
+Colletotrichum,gloeosporioides,,23,Glomerella cingulata,,JGI,,,,1314770
 Colletotrichum,godetiae,,,,,JGI,,,,1209918
 Colletotrichum,graminicola,,M1.001,,Ensembl,JGI,,,NCBI,645133
 Colletotrichum,higginsianum,,IMI 349063,,Ensembl,JGI,,,NCBI,759273
@@ -326,8 +326,8 @@ Colletotrichum,incanum,,,,Ensembl,,,,NCBI,1573173
 Colletotrichum,lupini,,CBS 109225,,,JGI,,,,145971
 Colletotrichum,navitas,,CBS 125086,,,JGI,,,,681940
 Colletotrichum,nymphaeae,,SA-01,,Ensembl,JGI,,,NCBI,1460502
-Colletotrichum,orbiculare,,MAFF 240422,,,,,,NCBI,1213857
 Colletotrichum,orbiculare,,,,Ensembl,,,,,1213857
+Colletotrichum,orbiculare,,MAFF 240422,,,,,,NCBI,1213857
 Colletotrichum,orchidophilum,,,,Ensembl,JGI,,,NCBI,1209926
 Colletotrichum,phormii,,,,,JGI,,,,359342
 Colletotrichum,salicis,,CBS 607.94,,Ensembl,JGI,,,NCBI,1209931
@@ -347,8 +347,8 @@ Coniophora,puteana,,RWD-64-598 SS2,,Ensembl,JGI,,,NCBI,741705
 Coniosporium,apollinis,,CBS 100218,,Ensembl,JGI,,,NCBI,1168221
 Coprinellus,micaceus,,,,,JGI,,,,71717
 Coprinellus,pellucidus,,,,,JGI,,,,575509
-Coprinopsis,cinerea,,AmutBmut pab1-1,,,JGI,,,,1132390
 Coprinopsis,cinerea,,okayama7#130,,Ensembl,JGI,FungiDB,,NCBI,240176
+Coprinopsis,cinerea,,AmutBmut pab1-1,,,JGI,,,,1132390
 Coprinopsis,marcescibilis,,,,,JGI,,,,230819
 Coprinopsis,sclerotiger,,,,,JGI,,,,71723
 Cordyceps,brongniartii,,RCEF 3172,,Ensembl,,,,NCBI,1081107
@@ -359,8 +359,8 @@ Cordyceps,militaris,,CM01,,Ensembl,JGI,,,NCBI,983644
 Cordyceps,sp.,,RAO-2017,,,,,,NCBI,2004951
 Corollospora,maritima,,,,,JGI,,,,45810
 Cortinarius,glaucopus,,AT 2004 276,,,JGI,,,,1149754
-Corynespora,cassiicola,,Philippines,,,,,,NCBI,1448308
 Corynespora,cassiicola,,,,,JGI,,,,59586
+Corynespora,cassiicola,,Philippines,,,,,,NCBI,1448308
 Crepidotus,variabilis,,,,,JGI,,,,179855
 Cronartium,quercuum,f. sp. fusiforme,G11,,,JGI,,,,708437
 Crucibulum,laeve,,,,,JGI,,,,68775
@@ -371,8 +371,10 @@ Cryptococcus,curvatus,,ATCC 20509,,,JGI,,,,879819
 Cryptococcus,depauperatus,,CBS 7841,,Ensembl,,,,NCBI,1295531
 Cryptococcus,depauperatus,,CBS 7855,,Ensembl,,,,NCBI,1295532
 Cryptococcus,deuterogattii,,R265,,,,FungiDB,,,294750
-Cryptococcus,gattii,,CA1280,,Ensembl,,,,NCBI,1296109
 Cryptococcus,gattii,,CA1873,,Ensembl,,FungiDB,,NCBI,1296111
+Cryptococcus,gattii,,VGIV IND107,,Ensembl,,FungiDB,,NCBI,1296105
+Cryptococcus,gattii,,WM276,,Ensembl,,FungiDB,,NCBI,367775
+Cryptococcus,gattii,,CA1280,,Ensembl,,,,NCBI,1296109
 Cryptococcus,gattii,,E566,,Ensembl,,,,NCBI,1296102
 Cryptococcus,gattii,,EJB2,,Ensembl,,,,NCBI,1296103
 Cryptococcus,gattii,,NT-10,,Ensembl,,,,NCBI,1296108
@@ -385,8 +387,8 @@ Cryptococcus,gattii,,VGII LA55,,Ensembl,,,,NCBI,1296106
 Cryptococcus,gattii,,VGII MMRL2647,,Ensembl,,,,NCBI,1296117
 Cryptococcus,gattii,,VGII R265,,Ensembl,,,,NCBI,294750
 Cryptococcus,gattii,,VGII Ram5,,Ensembl,,,,NCBI,1296110
-Cryptococcus,gattii,,VGIV IND107,,Ensembl,,FungiDB,,NCBI,1296105
-Cryptococcus,gattii,,WM276,,Ensembl,,FungiDB,,NCBI,367775
+Cryptococcus,neoformans,var. grubii,H99,,Ensembl,JGI,FungiDB,,NCBI,235443
+Cryptococcus,neoformans,var. neoformans,B-3501A,,Ensembl,,FungiDB,,NCBI,283643
 Cryptococcus,neoformans,var neoformans,JEC21,,,JGI,FungiDB,,NCBI,214684
 Cryptococcus,neoformans,var. grubii,125.91,,,,,,NCBI,1230079
 Cryptococcus,neoformans,var. grubii,A1-35-8,,,,,,NCBI,1230081
@@ -407,7 +409,6 @@ Cryptococcus,neoformans,var. grubii,c8,,,,,,NCBI,1230063
 Cryptococcus,neoformans,var. grubii,CHC193,,,,,,NCBI,1230064
 Cryptococcus,neoformans,var. grubii,D17-1,,,,,,NCBI,1230058
 Cryptococcus,neoformans,var. grubii,Gb118,,,,,,NCBI,1230060
-Cryptococcus,neoformans,var. grubii,H99,,Ensembl,JGI,FungiDB,,NCBI,235443
 Cryptococcus,neoformans,var. grubii,MW-RSA1955,,,,,,NCBI,1230066
 Cryptococcus,neoformans,var. grubii,MW-RSA36,,,,,,NCBI,1230062
 Cryptococcus,neoformans,var. grubii,MW-RSA852,,,,,,NCBI,1230069
@@ -415,7 +416,6 @@ Cryptococcus,neoformans,var. grubii,Th84,,,,,,NCBI,1230067
 Cryptococcus,neoformans,var. grubii,Tu259-1,,,,,,NCBI,1230072
 Cryptococcus,neoformans,var. grubii,Tu401-1,,,,,,NCBI,1230077
 Cryptococcus,neoformans,var. grubii,Ze90-1,,,,,,NCBI,1230078
-Cryptococcus,neoformans,var. neoformans,B-3501A,,Ensembl,,FungiDB,,NCBI,283643
 Cryptococcus,terricola,,,,,JGI,,,,104414
 Cryptococcus,vishniacii,,,,,JGI,,,,89929
 Cryptococcus,wieringae,,,,,JGI,,,,104416
@@ -426,11 +426,9 @@ Cunninghamella,echinulata,,,,,JGI,,,,76405
 Cutaneotrichosporon,oleaginosum,,,,Ensembl,,,,NCBI,879819
 Cyathus,striatus,,,,,JGI,,,,68777
 Cyberlindnera,fabianii,,,,Ensembl,,,,NCBI,36022
-Cyberlindnera,fabianii,,,,,,,,,36022
-Cyberlindnera,jadinii,,NRRL Y-1542,,,,,,,983966
-Cyberlindnera,jadinii,,,,,,,,,4903
-Cylindrobasidium,torrendii,,FP15055 ss-10,,,,,,,1314674
-Cyphellophora,europaea,,CBS 101466,,,,,,,1220924
+Cyberlindnera,jadinii,,NRRL Y-1542,,,JGI,,,,983966
+Cylindrobasidium,torrendii,,FP15055 ss-10,,Ensembl,,,,,1314674
+Cyphellophora,europaea,,CBS 101466,,,JGI,,,,1220924
 Cystostereum,murrayi,,,,,JGI,,,,467946
 Cytidiella,melzeri,,,,,JGI,,,,1883072
 Dacryopinax,primogenitus,,,,Ensembl,JGI,,,NCBI,1858805
@@ -470,8 +468,8 @@ Emergomyces,pasteuriana,,Ep9510,,Ensembl,,,,NCBI,1447872
 Emmonsia,crescens,,UAMH 3008,,Ensembl,,,,NCBI,1247875
 Emmonsia,parva,,UAMH 139,,Ensembl,,,,NCBI,1246674
 Emmonsia,sp.,,CAC-2015a,,Ensembl,,,,NCBI,1658172
-Encephalitozoon,cuniculi,,EcunIII-L,,Ensembl,,,,NCBI,1355160
 Encephalitozoon,cuniculi,,GB-M1,,Ensembl,JGI,,,NCBI,284813
+Encephalitozoon,cuniculi,,EcunIII-L,,Ensembl,,,,NCBI,1355160
 Encephalitozoon,hellem,,ATCC 50504,,Ensembl,JGI,,,NCBI,907965
 Encephalitozoon,intestinalis,,ATCC 50506,,Ensembl,JGI,,,NCBI,876142
 Encephalitozoon,romaleae,,SJ-2008,,Ensembl,JGI,,,NCBI,1178016
@@ -484,8 +482,8 @@ Entophlyctis,helioformis,,,,,JGI,,,,281842
 Epicoccum,nigrum,,,,,,,,NCBI,105696
 Eremomyces,bilateralis,,,,,JGI,,,,1341166
 Eremothecium,cymbalariae,,DBVPG#7215,,Ensembl,,,,NCBI,931890
-Eremothecium,gossypii,,ATCC 10895,Ashbya gossypii,,JGI,,,NCBI,284811
 Eremothecium,gossypii,,FDAG1,,Ensembl,,,,NCBI,1034331
+Eremothecium,gossypii,,ATCC 10895,Ashbya gossypii,,JGI,,,NCBI,284811
 Eremothecium,sinecaudum,,,,Ensembl,,,,NCBI,45286
 Erysiphe,necator,,,,Ensembl,JGI,,,NCBI,52586
 Erythrobasidium,hasegawianum,,ATCC 9536,,,JGI,,,,1397323
@@ -506,8 +504,8 @@ Fellomyces,penicillatus,,,,,JGI,,,,5610
 Fennellomyces,sp.,,T-0311,,,JGI,,,,1329386
 Fennellomyces,sp.,,,,,JGI,,,,101135
 Fibroporia,radiculosa,,TFFH 294,,Ensembl,JGI,,,NCBI,599839
-Fibulobasidium,inconspicuum,,,,,JGI,,,,57688
 Fibularhizoctonia,sp.,,CBS 109695,,Ensembl,JGI,,,NCBI,436010
+Fibulobasidium,inconspicuum,,,,,JGI,,,,57688
 Fistulina,hepatica,,ATCC 64428,,Ensembl,JGI,,,NCBI,1128425
 Fomes,fomentarius,,,,,JGI,,,,40442
 Fomitiporia,mediterranea,,MF3/22,,Ensembl,JGI,,,NCBI,694068
@@ -525,22 +523,22 @@ Fusarium,graminearum,,PH-1,Gibberella zeae,Ensembl,JGI,FungiDB,,NCBI,5518
 Fusarium,langsethiae,,,,Ensembl,,,,NCBI,179993
 Fusarium,mangiferae,,,,Ensembl,,,,NCBI,192010
 Fusarium,nygamai,,,,,,,,NCBI,42673
+Fusarium,oxysporum,f. sp. lycopersici,4287,,Ensembl,JGI,FungiDB,,NCBI,426428
+Fusarium,oxysporum,f. sp. cubense tropical,race 4 54006,,Ensembl,,FungiDB,,NCBI,1089451
+Fusarium,oxysporum,,Fo47,,Ensembl,,FungiDB,,NCBI,909455
 Fusarium,oxysporum,f. sp. Conglutinans,race 2 54008,,Ensembl,,,,NCBI,1089457
 Fusarium,oxysporum,f. sp. Cubense,Race 1,,Ensembl,,,,NCBI,1229664
 Fusarium,oxysporum,f. sp. Cubense,Race 4,,Ensembl,,,,NCBI,1229665
-Fusarium,oxysporum,f. sp. cubense tropical,race 4 54006,,Ensembl,,FungiDB,,NCBI,1089451
-Fusarium,oxysporum,f. sp. lycopersici,4287,,Ensembl,JGI,FungiDB,,NCBI,426428
 Fusarium,oxysporum,f. sp. lycopersici,MN25,,Ensembl,,,,NCBI,1080343
 Fusarium,oxysporum,f. sp. melonis,26406,,Ensembl,,,,NCBI,1089452
 Fusarium,oxysporum,f. sp. pisi,HDV247,,Ensembl,,,,NCBI,1080344
-Fusarium,oxysporum,f. sp. radicis-cucumerinum,,,,,,,NCBI,327505
 Fusarium,oxysporum,f. sp. radicis-lycopersici,26381,,Ensembl,,,,NCBI,1089448
 Fusarium,oxysporum,f. sp. raphani,54005,,Ensembl,,,,NCBI,1089458
 Fusarium,oxysporum,f. sp. vasinfectum,25433,,Ensembl,,,,NCBI,1089449
-Fusarium,oxysporum,,Fo47,,Ensembl,,FungiDB,,NCBI,909455
-Fusarium,oxysporum,,Fo5176,,,,,,NCBI,660025
 Fusarium,oxysporum,,FOSC 3-a,,Ensembl,,,,NCBI,660027
 Fusarium,oxysporum,,NRRL 32931,,,,,broad,NCBI,660029
+Fusarium,oxysporum,f. sp. radicis-cucumerinum,,,,,,,NCBI,327505
+Fusarium,oxysporum,,Fo5176,,,,,,NCBI,660025
 Fusarium,poae,,,,Ensembl,,,,NCBI,36050
 Fusarium,proliferatum,,ET1,,Ensembl,,,,NCBI,1227346
 Fusarium,proliferatum,,,,Ensembl,,,,NCBI,948311
@@ -559,8 +557,8 @@ Gelasinospora,tetrasperma,,,Neurospora tetraspora,,JGI,,,,94610
 Gelatoporia,subvermispora,,B,Ceriporiopsis,Ensembl,JGI,,,NCBI,914234
 Geotrichum,candidum,,,,Ensembl,,,,,1173061
 Gilbertella,persicaria,var. persicaria,,,,JGI,,,,983150
-Glarea,lozoyensis,,74030,,Ensembl,,,,NCBI,1104152
 Glarea,lozoyensis,,ATCC 20868,,Ensembl,JGI,,,NCBI,1116229
+Glarea,lozoyensis,,74030,,Ensembl,,,,NCBI,1104152
 Globomyces,pollinis-pini,,,,,JGI,,,,382532
 Gloeopeniophorella,convolvens,,,,,JGI,,,,205761
 Gloeophyllum,trabeum,,ATCC 11539,,Ensembl,JGI,,,NCBI,670483
@@ -596,11 +594,11 @@ Heterobasidion,irregulare,,TC 32-1,,Ensembl,,,,NCBI,747525
 Heterogastridium,pycnidioideum,,ATCC MYA-4631,,,JGI,,,,1397325
 Hexagonia,nitida,,,,,JGI,,,,1140402
 Hirsutella,minnesotensis,,3608,,Ensembl,,,,NCBI,1043627
-Histoplasma,capsulatum,,G186AR,,Ensembl,,FungiDB,,NCBI,447093
-Histoplasma,capsulatum,,G217B,,,,FungiDB,,,447094
-Histoplasma,capsulatum,,H143,,Ensembl,,,,NCBI,544712
-Histoplasma,capsulatum,,H88,,Ensembl,,FungiDB,,NCBI,544711
 Histoplasma,capsulatum,,NAm1,,Ensembl,JGI,FungiDB,,NCBI,339724
+Histoplasma,capsulatum,,G186AR,,Ensembl,,FungiDB,,NCBI,447093
+Histoplasma,capsulatum,,H88,,Ensembl,,FungiDB,,NCBI,544711
+Histoplasma,capsulatum,,H143,,Ensembl,,,,NCBI,544712
+Histoplasma,capsulatum,,G217B,,,,FungiDB,,,447094
 Homoloaphlyctis,polyrhiza,,JEL 142,,,JGI,,,,166479
 Hortaea,acidophila,,,,,JGI,,,,245834
 Hortaea,werneckii,,EXF-2000,,,JGI,,,NCBI,91943
@@ -666,8 +664,8 @@ Lachancea,waltii,,,,,,,Nature,,4914
 Lactarius,quietus,,,,,JGI,,,,111141
 Lactifluus,subvellereus,,,,,JGI,,,,1837270
 Lactifluus,volemus,,,,,JGI,,,,71967
-Laetiporus,sulphureus,var. sulphureus,,,,JGI,,,,447506
 Laetiporus,sulphureus,,93-53,,Ensembl,,,,NCBI,1314785
+Laetiporus,sulphureus,var. sulphureus,,,,JGI,,,,447506
 Lasiosphaeria,miniovina,,SMH2392-1A,Lasiosphaeria sp. SMH2392-1A,,JGI,,,,1954250
 Lecythophora,sp.,,AK0013,Coniochaeta sp. AK0013,,JGI,,,,1884255
 Leiotrametes,lactinea,,,,,JGI,,,,1391043
@@ -678,8 +676,8 @@ Lentinus,tigrinus,,ALCF2SS1-6,,,JGI,,,,1328759
 Lentinus,tigrinus,,ALCF2SS1-7,,,JGI,,,,1328758
 Lentinus,tigrinus,,,,,JGI,,,,5365
 Lentithecium,fluviatile,,,,,JGI,,,,690899
-Lepidopterella,palustris,,CBS 459.81,,,,,,NCBI,1314670
 Lepidopterella,palustris,,,,,JGI,,,,741139
+Lepidopterella,palustris,,CBS 459.81,,,,,,NCBI,1314670
 Lepista,nuda,,,,,JGI,,,,64659
 Leptodontium,sp.,,2 PMI_412,,,JGI,,,,1485227
 Leptosphaeria,maculans,,JN3,,Ensembl,JGI,,,NCBI,985895
@@ -741,11 +739,11 @@ Meliniomyces,variabilis,,F,,,JGI,,,NCBI,1149755
 Meredithblackwellia,eburnea,,MCA 4105,,,JGI,,,,1408158
 Metarhizium,acridum,,CQMa 102,,Ensembl,JGI,,,NCBI,655827
 Metarhizium,album,,ARSEF 1941,,Ensembl,,,,NCBI,1081103
-Metarhizium,anisopliae,,ARSEF 23,,Ensembl,,,,,655844
 Metarhizium,anisopliae,,ARSEF 549,,Ensembl,,,,NCBI,1276135
 Metarhizium,anisopliae,,BRIP 53284,,Ensembl,,,,NCBI,1291519
 Metarhizium,anisopliae,,BRIP 53293,,Ensembl,,,,NCBI,1291518
 Metarhizium,anisopliae,,,,Ensembl,,,,NCBI,5530
+Metarhizium,anisopliae,,ARSEF 23,,Ensembl,,,,,655844
 Metarhizium,brunneum,,ARSEF 3297,,Ensembl,,,,NCBI,1276141
 Metarhizium,guizhouense,,ARSEF 977,,Ensembl,,,,NCBI,1276136
 Metarhizium,majus,,ARSEF 297,,Ensembl,,,,NCBI,1276143
@@ -783,8 +781,8 @@ Mortierella,multidivaricata,,,,,JGI,,,,101098
 Mortierella,verticillata,,NRRL 6337,,Ensembl,JGI,,,NCBI,1069443
 Mrakia,frigida,,ATCC 22029,,,JGI,,,,29902
 Mucor,ambiguus,,,,Ensembl,,,,NCBI,91626
-Mucor,circinelloides,f. circinelloides,1006PhL,,Ensembl,,,,NCBI,1220926
 Mucor,circinelloides,f. lusitanicus,CBS 277.49,,Ensembl,,FungiDB,,NCBI,747725
+Mucor,circinelloides,f. circinelloides,1006PhL,,Ensembl,,,,NCBI,1220926
 Mucor,circinelloides,,,,,JGI,,,,36080
 Mucor,heterogamus,,,,,JGI,,,,101122
 Multifurca,ochricompacta,,,,,JGI,,,,376703
@@ -885,8 +883,8 @@ Penicillium,brevicompactum,,AgRF18,,,JGI,,,,1392249
 Penicillium,brevicompactum,,,,,JGI,,,,5074
 Penicillium,camemberti,,FM 013,,Ensembl,,,,NCBI,1429867
 Penicillium,canescens,,ATCC 10419,,,JGI,,,,1314794
-Penicillium,chrysogenum,,Wisconsin 54-1255,,,JGI,,,,500485
 Penicillium,chrysogenum,,,,Ensembl,JGI,,,NCBI,5076
+Penicillium,chrysogenum,,Wisconsin 54-1255,,,JGI,,,,500485
 Penicillium,coprophilum,,,,Ensembl,JGI,,,NCBI,36646
 Penicillium,decumbens,,,,Ensembl,JGI,,,NCBI,69771
 Penicillium,digitatum,,Pd1,,Ensembl,JGI,,,NCBI,1170230
@@ -946,8 +944,8 @@ Phyllosticta,citrichinaensis,,,,,JGI,,,,1130410
 Phyllosticta,sp.,,CPC 27169,,,JGI,,,,1907483
 Phyllosticta,sp.,,CPC 27913,,,JGI,,,,1882840
 Pichia,kudriavzevii,,,,Ensembl,,,,NCBI,4909
-Pichia,membranifaciens,,NRRL Y-2026,,Ensembl,,,,NCBI,763406
 Pichia,membranifaciens,,,,Ensembl,JGI,,,NCBI,4926
+Pichia,membranifaciens,,NRRL Y-2026,,Ensembl,,,,NCBI,763406
 Pichia,pastoris,,,Komagataella pastoris,,JGI,,,,4922
 Pichia,sorbitophila,,,Millerozyma farinosa,,,,genolevures,,4920
 Pichia,stipitis,,,,,JGI,,,,4924
@@ -1019,14 +1017,14 @@ Pseudozyma,flocculosa,,,Anthracocystis flocculosa,,,,GenBank,,84751
 Pseudozyma,hubeiensis,,SY62,,Ensembl,JGI,,,NCBI,1305764
 Psilocybe,cyanescens,,,,,,,,NCBI,93625
 Pterula,gracilis,,,,,JGI,,,,1884261
-Puccinia,graminis,f. sp. tritici,CRL 75-36-700-3,,,JGI,FungiDB,,NCBI,56615
 Puccinia,graminis,,Ug99,,Ensembl,,,,,1040990
 Puccinia,graminis,,,,Ensembl,,,,,418459
+Puccinia,graminis,f. sp. tritici,CRL 75-36-700-3,,,JGI,FungiDB,,NCBI,56615
 Puccinia,sorghi,,,,Ensembl,,,,NCBI,27349
 Puccinia,striiformis,f. sp. tritici,PST-130,,Ensembl,JGI,,,,875184
 Puccinia,striiformis,f. sp. tritici,PST-78,,Ensembl,JGI,,,,1165861
-Puccinia,triticina,,1-1 BBBD Race 1,,,JGI,,,NCBI,630390
 Puccinia,triticina,,,,Ensembl,,,,,630390
+Puccinia,triticina,,1-1 BBBD Race 1,,,JGI,,,NCBI,630390
 Punctularia,strigosozonata,,HHB-11173 SS5,,Ensembl,JGI,,,NCBI,741275
 Purpureocillium,lilacinum,,,,Ensembl,,,,NCBI,33203
 Purpureocillium,sp.,,UdeA0106,,,JGI,,,,1323837
@@ -1049,9 +1047,9 @@ Rasamsonia,byssochlamydoides,,,,,,,fungalgenomics.ca,,89139
 Rasamsonia,emersonii,,CBS 393.64,,Ensembl,,,,NCBI,1408163
 Rhinocladiella,mackenziei,,CBS 650.93,,Ensembl,,,,NCBI,1442369
 Rhizoclosmatium,globosum,,,,,JGI,,,NCBI,329046
+Rhizoctonia,solani,,AG-1 IB,,Ensembl,JGI,,,NCBI,1108050
 Rhizoctonia,solani,,123E,,Ensembl,,,,NCBI,1423351
 Rhizoctonia,solani,,AG-1 IA,,Ensembl,,,,NCBI,983506
-Rhizoctonia,solani,,AG-1 IB,,Ensembl,JGI,,,NCBI,1108050
 Rhizoctonia,solani,,AG-3 Rhs1AP,,Ensembl,,,,NCBI,1086054
 Rhizoctonia,solani,,AG-8 WAC10335,,Ensembl,,,,NCBI,1287689
 Rhizoctonia,solani,,,,Ensembl,,,,NCBI,456999
@@ -1064,9 +1062,9 @@ Rhizopogon,salebrosus,,TDB-379,,,JGI,,,,632084
 Rhizopogon,vesiculosus,,,,Ensembl,JGI,,,NCBI,180088
 Rhizopogon,vinicolor,,AM-OR11-026,,Ensembl,JGI,,,NCBI,1314800
 Rhizopus,delemar,,RA 99-880,,Ensembl,JGI,FungiDB,,NCBI,246409
-Rhizopus,microsporus,var. chinensis,CCTCC M201021,,,JGI,,,,1271458
 Rhizopus,microsporus,var. microsporus,,,Ensembl,JGI,,,NCBI,86635
 Rhizopus,microsporus,,ATCC 52813,,Ensembl,JGI,,,NCBI,1340429
+Rhizopus,microsporus,var. chinensis,CCTCC M201021,,,JGI,,,,1271458
 Rhizoscyphus,ericae,,,,,JGI,,,,1745343
 Rhodocollybia,butyracea,,,,,JGI,,,,206335
 Rhodotorula,glutinis,,,,,JGI,,,,5535
@@ -1076,8 +1074,8 @@ Rhodotorula,mucilaginosa,,,,,JGI,,,,5537
 Rhodotorula,sp.,,JG-1b,,Ensembl,JGI,,,NCBI,1305733
 Rhodotorula,sp.,,,,,JGI,,,,1853554
 Rhodotorula,toruloides,,ATCC 204091,,Ensembl,,,,NCBI,1001064
-Rhodotorula,toruloides,,MTCC 457,,Ensembl,,,,,5286
 Rhodotorula,toruloides,,NP11,,Ensembl,,,,NCBI,1130832
+Rhodotorula,toruloides,,MTCC 457,,Ensembl,,,,,5286
 Rhynchosporium,agropyri,,,,Ensembl,,,,NCBI,914238
 Rhynchosporium,commune,,,,Ensembl,,,,NCBI,914237
 Rhynchosporium,secalis,,,,Ensembl,,,,NCBI,38038
@@ -1099,30 +1097,22 @@ Rutstroemia,sp.,,NJR-2017a WRK4,,,,,,NCBI,2070412
 Saccharata,proteae,,,,,JGI,,,,131308
 Saccharomyces,arboricola,,H-6,,Ensembl,,,,NCBI,1160507
 Saccharomyces,arboricola,,H-6,,,,,,NCBI,1160507
+Saccharomyces,cerevisiae,,S288C,,Ensembl,JGI,FungiDB,,NCBI,559292
 Saccharomyces,cerevisiae,,AWRI796,,Ensembl,,,,NCBI,4932
 Saccharomyces,cerevisiae,,CEN.PK113-7D,,Ensembl,,,,NCBI,4932
 Saccharomyces,cerevisiae,,EC1118,,Ensembl,,,,NCBI,4932
 Saccharomyces,cerevisiae,,FostersB,,Ensembl,,,,NCBI,764102
 Saccharomyces,cerevisiae,,FostersO,,Ensembl,,,,NCBI,764101
-Saccharomyces,cerevisiae,,JAY291,,,,,,NCBI,574961
 Saccharomyces,cerevisiae,,Kyokai no. 7,,Ensembl,,,,NCBI,721032
 Saccharomyces,cerevisiae,,Lalvin QA23,,Ensembl,,,,NCBI,764098
-Saccharomyces,cerevisiae,,M3707,,,JGI,,,,1149757
-Saccharomyces,cerevisiae,,M3836,,,JGI,,,,1162671
-Saccharomyces,cerevisiae,,M3837,,,JGI,,,,1162672
-Saccharomyces,cerevisiae,,M3838,,,JGI,,,,1162673
-Saccharomyces,cerevisiae,,M3839,,,JGI,,,,1162674
 Saccharomyces,cerevisiae,,P283,,Ensembl,,,,NCBI,1177187
 Saccharomyces,cerevisiae,,P301,,Ensembl,,,,NCBI,1182968
 Saccharomyces,cerevisiae,,R008,,Ensembl,,,,NCBI,1182966
 Saccharomyces,cerevisiae,,R103,,Ensembl,,,,NCBI,1182967
 Saccharomyces,cerevisiae,,RM11-1a,,Ensembl,,,,NCBI,285006
-Saccharomyces,cerevisiae,,S288C,,Ensembl,JGI,FungiDB,,NCBI,559292
-Saccharomyces,cerevisiae,,S288C,,,,,,,559292
 Saccharomyces,cerevisiae,,Vin13,,Ensembl,,,,NCBI,764099
 Saccharomyces,cerevisiae,,VL3,,Ensembl,,,,NCBI,764100
 Saccharomyces,cerevisiae,,x Saccharomyces kudriavzevii VIN7,,Ensembl,,,,NCBI,1095631
-Saccharomyces,cerevisiae,,YB210,,,JGI,,,,927258
 Saccharomyces,cerevisiae,,YJM1078,,Ensembl,,,,NCBI,1296266
 Saccharomyces,cerevisiae,,YJM1083,,Ensembl,,,,NCBI,1292971
 Saccharomyces,cerevisiae,,YJM1129,,Ensembl,,,,NCBI,1293430
@@ -1158,7 +1148,6 @@ Saccharomyces,cerevisiae,,YJM1389,,Ensembl,,,,NCBI,1294361
 Saccharomyces,cerevisiae,,YJM1399,,Ensembl,,,,NCBI,1294362
 Saccharomyces,cerevisiae,,YJM1400,,Ensembl,,,,NCBI,1294363
 Saccharomyces,cerevisiae,,YJM1401,,Ensembl,,,,NCBI,1294364
-Saccharomyces,cerevisiae,,YJM1402,,,,,,,
 Saccharomyces,cerevisiae,,YJM1402,,Ensembl,,,,NCBI,1294365
 Saccharomyces,cerevisiae,,YJM1415,,Ensembl,,,,NCBI,1294366
 Saccharomyces,cerevisiae,,YJM1417,,Ensembl,,,,NCBI,1294367
@@ -1218,6 +1207,13 @@ Saccharomyces,cerevisiae,,YJM987,,Ensembl,,,,NCBI,1294329
 Saccharomyces,cerevisiae,,YJM990,,Ensembl,,,,NCBI,1294330
 Saccharomyces,cerevisiae,,YJM993,,Ensembl,,,,NCBI,1294331
 Saccharomyces,cerevisiae,,YJM996,,Ensembl,,,,NCBI,1294332
+Saccharomyces,cerevisiae,,M3707,,,JGI,,,,1149757
+Saccharomyces,cerevisiae,,M3836,,,JGI,,,,1162671
+Saccharomyces,cerevisiae,,M3837,,,JGI,,,,1162672
+Saccharomyces,cerevisiae,,M3838,,,JGI,,,,1162673
+Saccharomyces,cerevisiae,,M3839,,,JGI,,,,1162674
+Saccharomyces,cerevisiae,,YB210,,,JGI,,,,927258
+Saccharomyces,cerevisiae,,JAY291,,,,,,NCBI,574961
 Saccharomyces,eubayanus,,,,Ensembl,,,,NCBI,1080349
 Saccharomyces,kudriavzevii,,IFO 1802,,Ensembl,,,,NCBI,226230
 Saccharomyces,kudriavzevii,,ZP591,,,,,saccharomycessensust,,1165456
@@ -1254,9 +1250,9 @@ Septoria,musiva,,SO2202,Sphaerulina musiva,,JGI,,,,692275
 Septoria,populicola,,,,,JGI,,,,215467
 Serendipita,indica,,DSM 11827,,Ensembl,,,,NCBI,1109443
 Serendipita,vermifera,,MAFF 305830,,Ensembl,,,,NCBI,933852
-Serpula,lacrymans,var shastensis,SHA21-2,,,JGI,,,,690234
 Serpula,lacrymans,var. lacrymans,S7.3,,Ensembl,JGI,,,NCBI,936435
 Serpula,lacrymans,var. lacrymans,S7.9,,Ensembl,JGI,,,NCBI,578457
+Serpula,lacrymans,var shastensis,SHA21-2,,,JGI,,,,690234
 Setomelanomma,holmii,,,,,JGI,,,,210430
 Setosphaeria,turcica,,Et28A,,Ensembl,JGI,,,NCBI,671987
 Sirobasidium,intermedium,,,,,JGI,,,,89935
@@ -1275,8 +1271,8 @@ Spinellus,fusiger,,,,,JGI,,,,101115
 Spizellomyces,punctatus,,DAOM BR117,,Ensembl,JGI,FungiDB,,NCBI,645134
 Sporidiobolus,pararoseus,,,,,JGI,,,,5003
 Sporidiobolus,salmonicolor,,,,Ensembl,,,,NCBI,5005
-Sporisorium,reilianum,f. sp. reilianum,,,,,,,NCBI,72559
 Sporisorium,reilianum,,SRZ2,,Ensembl,JGI,FungiDB,,NCBI,999809
+Sporisorium,reilianum,f. sp. reilianum,,,,,,,NCBI,72559
 Sporisorium,scitamineum,,,,Ensembl,,,,NCBI,49012
 Sporobolomyces,linderae,,CBS 7893,,,JGI,,,,1397324
 Sporobolomyces,roseus,,,,,JGI,,,,40563
@@ -1392,9 +1388,9 @@ Trichoderma,guizhouense,,,,Ensembl,,,,NCBI,1491466
 Trichoderma,harzianum,,CBS 226.95,,Ensembl,JGI,,,NCBI,983964
 Trichoderma,longibrachiatum,,ATCC 18648,,,JGI,,,NCBI,983965
 Trichoderma,parareesei,,,,,,,,NCBI,858221
-Trichoderma,reesei,,QM6a,,,,FungiDB,,NCBI,431241
 Trichoderma,reesei,,RUT C-30,,Ensembl,JGI,,,NCBI,1344414
 Trichoderma,reesei,,,,,JGI,,,NCBI,51453
+Trichoderma,reesei,,QM6a,,,,FungiDB,,NCBI,431241
 Trichoderma,virens,,,,Ensembl,JGI,,,,413071
 Tricholoma,matsutake,,945,,,JGI,,,,1095628
 Trichomonascus,petasosporus,,,,,JGI,,,,64416
@@ -1403,8 +1399,8 @@ Trichophyton,benhamiae,,CBS 112371,,Ensembl,,,,NCBI,663331
 Trichophyton,equinum,,CBS 127.97,,Ensembl,,,,NCBI,559882
 Trichophyton,interdigitale,,H6,,Ensembl,,,,NCBI,1215336
 Trichophyton,interdigitale,,MR816,,Ensembl,,,,NCBI,1215338
-Trichophyton,rubrum,,CBS 100081,,Ensembl,,,,NCBI,1215328
 Trichophyton,rubrum,,CBS 118892,,Ensembl,JGI,,,NCBI,559305
+Trichophyton,rubrum,,CBS 100081,,Ensembl,,,,NCBI,1215328
 Trichophyton,rubrum,,CBS 202.88,,Ensembl,,,,NCBI,1215334
 Trichophyton,rubrum,,CBS 288.86,,Ensembl,,,,NCBI,1215330
 Trichophyton,rubrum,,CBS 289.86,,Ensembl,,,,NCBI,1215329
@@ -1429,8 +1425,8 @@ Trypethelium,eluteriae,,,,,JGI,,,,364715
 Tsuchiyaea,wingfieldii,,CBS 7118,,Ensembl,,,,NCBI,1295528
 Tuber,borchii,,,,,JGI,,,NCBI,42251
 Tuber,melanosporum,,Mel28,,Ensembl,JGI,,,NCBI,656061
-Tulasnella,calospora,,AL13/4D,,,JGI,,,,1051891
 Tulasnella,calospora,,MUT 4182,,Ensembl,,,,NCBI,1051891
+Tulasnella,calospora,,AL13/4D,,,JGI,,,,1051891
 Umbelopsis,ramanniana,,AG,,,JGI,,,,1314678
 Umbelopsis,sp.,,AD052,,,JGI,,,,1883073
 Umbilicaria,pustulata,,,,Ensembl,,,,NCBI,136370
@@ -1451,8 +1447,8 @@ Venturia,pirina,,,,,JGI,,,,415593
 Verruconis,gallopava,,,,Ensembl,JGI,,,NCBI,253628
 Verruculina,enalia,,,Didymosphaeria enalia,,JGI,,,,85948
 Verticillium,alfalfae,,VaMs.102,,Ensembl,JGI,,,NCBI,526221
-Verticillium,dahliae,,JR2,,Ensembl,,,,,1202531
 Verticillium,dahliae,,VdLs.17,,Ensembl,JGI,,,NCBI,498257
+Verticillium,dahliae,,JR2,,Ensembl,,,,,1202531
 Verticillium,longisporum,,,,Ensembl,,,,NCBI,100787
 Violaceomyces,palustris,,SA 807,Ustilaginomycotina sp. SA 807,,JGI,,,,1673888
 Vittaforma,corneae,,ATCC 50505,,Ensembl,,,,NCBI,993615
@@ -1481,8 +1477,8 @@ Zasmidium,cellare,,ATCC 36951,,,JGI,,,,1080233
 Zopfia,rhizophila,,,,,JGI,,,,160035
 Zychaea,mexicana,,RSA 1403,,,JGI,,,,64656
 Zygoascus,hellenicus,,,,,JGI,,,,5621
-Zygosaccharomyces,bailii,,CLIB 213,,,,,EMBL,NCBI,1333698
 Zygosaccharomyces,bailii,,ISA1307,,Ensembl,,,,NCBI,1355161
+Zygosaccharomyces,bailii,,CLIB 213,,,,,EMBL,NCBI,1333698
 Zygosaccharomyces,parabailii,,,,Ensembl,,,,NCBI,1365886
 Zygosaccharomyces,rouxii,,CBS 732,,Ensembl,JGI,,,NCBI,559307
 Zymoseptoria,ardabiliae,,STIR04_1.1.1,,,JGI,,,,985147
